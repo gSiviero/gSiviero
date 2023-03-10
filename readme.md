@@ -1,4 +1,4 @@
-Hi there, welcome to my Github!
+# Hi there, welcome to my Github!
 
 I'm Giulliano, a passionate learner of the craft of refactoring and delivering well-built and documented code.
 
@@ -7,7 +7,7 @@ I'm Giulliano, a passionate learner of the craft of refactoring and delivering w
 &nbsp;
 
 ---
-Technologies and Tools
+## Technologies and Tools
 
 | Front-end     |Back-end| Databases| Cloud|
 | :----:  | :----:  | :----:  | :----: |
