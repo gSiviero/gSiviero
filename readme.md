@@ -1,8 +1,9 @@
-# Hi there, welcome to my Github!
+# Hi there, welcome to my GitHub Profile!
 
 I'm Giulliano, a passionate learner of the craft of refactoring and delivering well-built and documented code.
 
 [Visit my personal blog.](https://duckduckgo.com)
+
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) My LinkedIn Profile](https://www.linkedin.com/)
 &nbsp;
 
